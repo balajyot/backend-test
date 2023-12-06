@@ -7,7 +7,6 @@ const uri = "mongodb+srv://jyothiravali007:Ravali%4012345@cluster0.e6yfrtx.mongo
 
 const dbName = 'TopStories';
 
-// Name of the collection you want to export
 const collectionName = 'Stories';
 
 const client = new MongoClient(uri);
@@ -49,7 +48,7 @@ const server = http.createServer(async (req, res) => {
     {
         try {
             const stories = await fetchStories();
-            res.writeHead(200, {'Content-Type': 'application/json','Access-Control-Allow-Origin':'*'})
+            res.writeHead(200, {'Content-Type': 'application/json'})
             res.end(JSON.stringify(stories, null, 2));
         } catch (error) {
             console.error(error);
