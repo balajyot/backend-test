@@ -48,7 +48,7 @@ const server = http.createServer(async (req, res) => {
     {
         try {
             const stories = await fetchStories();
-            res.writeHead(200, {'Content-Type': 'application/json'})
+            res.writeHead(200, {'Content-Type': 'application/json','Access-Control-Allow-Origin':'*'})
             res.end(JSON.stringify(stories, null, 2));
         } catch (error) {
             console.error(error);
