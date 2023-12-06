@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">  
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <ul id="sidemenu">
+                <a class="icon" onclick="closemenu()">&#215;</a>
+                <li><a href="#about">ABOUT</a></li>
+                <li><a href="#education">EDUCATION</a></li>
+                <li><a href="#projects">PROJECTS</a></li>
+                <li><a href="#experience">EXPERIENCE</a></li>
+                <li><a href="#blogs">BLOGS</a></li>
+            </ul>
+            <a class="icon" onclick="openmenu()">&#9776; </a>
+        </div>
+    </header>
+
+    <div id="container">
+        <section id="about">
+            <h2>ABOUT</h2>
+                <div class="about-content">
+                    <img src="Profile.png" alt="Profile Image">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec quam at libero suscipit commodo. Maecenas nec dolor euismod, bibendum libero a, fermentum justo. Fusce tristique quam eu bibendum consectetur. Praesent bibendum est nec dapibus viverra. Etiam euismod urna vel neque dapibus, at fermentum odio tristique. Nullam nec nisi id libero viverra auctor. Vivamus ac nisl sed velit vulputate iaculis. In vel dui sit amet ligula fermentum ultrices. Nulla facilisi.</p>
+                </div>
+        </section>
+
+        <section id="education">
+            <h2>EDUCATION</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget odio euismod, ultrices nunc id, vulputate arcu.</p>
+        </section>
+
+        <section id="projects">
+            <h2>PROJECTS</h2>
+                <h3>PROJECT 1</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget odio euismod, ultrices nunc id, vulputate arcu.</p>
+                <h3>PROJECT 2</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget odio euismod, ultrices nunc id, vulputate arcu.</p>
+                <h3>PROJECT 3</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget odio euismod, ultrices nunc id, vulputate arcu.</p>
+        </section>
+
+        <section id="experience">
+            <h2>EXPERIENCE</h2>
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec quam at libero suscipit commodo. Vivamus ac nisl sed velit vulputate iaculis. In vel dui sit amet ligula fermentum ultrices. Nulla facilisi. </li>
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec quam at libero suscipit commodo. Vivamus ac nisl sed velit vulputate iaculis. In vel dui sit amet ligula fermentum ultrices. Nulla facilisi. </li>
+        </section>
+
+        <section id="blogs">
+            <h2>BLOGS</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget odio euismod, ultrices nunc id, vulputate arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec quam at libero suscipit commodo. Maecenas nec dolor euismod, bibendum libero a, fermentum justo. Fusce tristique quam eu bibendum consectetur. Praesent bibendum est nec dapibus viverra. Etiam euismod urna vel neque dapibus, at fermentum odio tristique. Nullam nec nisi id libero viverra auctor. Vivamus ac nisl sed velit vulputate iaculis. In vel dui sit amet ligula fermentum ultrices. Nulla facilisi.</p>
+        </section>
+
+    </div>
+
+    <footer>
+         <div class="social-media">
+            <a href="https://www.linkedin.com/in/jyothi-ravali-battula-279a2312a/" target="_blank">
+                <img src="LinkedIn_logo.png" alt="LinkedIn Logo"> LinkedIn
+             </a>
+            <a href="mailto:jyothiravali007@gmail.com">
+                <img src="Gmail_logo.png" alt="Gmail Logo"> E-mail
+            </a>
+        </div>
+    <p>&copy; Jyothi Ravali Battula</p>
+    </footer>
+</body>
+
+<script>
+
+    var sidemenu = document.getElementById("sidemenu");
+
+    function openmenu(){
+        sidemenu.style.right = "0";
+    }
+    function closemenu(){
+        sidemenu.style.right = "-200px";
+    }
+
+</script>
+
+</html>

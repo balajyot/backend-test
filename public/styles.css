@@ -1,0 +1,185 @@
+body, h1, h2, p {
+    margin: 1;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111010;
+    color: #111010;
+    text-align: center;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+header h2 {
+    font-size: 1rem;
+    text-align: center;
+}
+
+header h3 {
+    font-size: 0.5rem;
+    text-align: center;
+}
+
+header ul {
+    padding: 0;
+    text-align: center;
+}
+
+header ul li {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px; 
+    border-radius: 20px; 
+    background-color: #1f1f1f; 
+}
+
+#container{
+    height: auto;
+    background-color: #111010;
+    grid-template-areas:
+    "header header"
+    "about about"
+    "education education"
+    "projects projects"
+    "experience experience"
+    "blog blog"
+    "footer footer"
+    ; 
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.about-content img {
+    float: center;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+.about-content p {
+    text-align: left;
+    margin-left: 15px;
+}
+
+.about-content {
+    display: flex;
+    flex-direction: row;
+}
+
+
+footer {
+    background-color: #111010;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.social-media a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 10px;
+    font-size: 1.2rem;
+}
+
+.social-media img {
+    width: 20px;
+    height: 18px;
+}
+
+.navbar .icon{
+    display: none;
+}
+
+@media (max-width: 500px) {
+    .navbar .icon{
+        display: block;
+        color: #fff;
+        font-size: 25px;
+        padding: 10px 5%;
+        text-align: right;
+    }
+
+    .navbar a{
+        width: fit-content;
+    }
+
+    .navbar ul{
+        background: #686868;
+        position: fixed;
+        top: 0;
+        margin-top: -10px;
+        right: -200px;
+        width: 200px;
+        height: 100vh;
+        padding-top: 50px;
+        transition: right 0.5s;
+    }
+    .navbar ul li{
+        display: block;
+        margin: 25px;
+    }
+    .navbar ul .icon{
+        position: absolute;
+        font-size: 25px;
+        top: 10px;
+        left: 135px;
+        cursor: pointer;
+    }
+
+    .navbar ul li a{
+        background-color: #3a3a3a;
+    }
+
+    .about-content img {
+        float: center;
+        align-self: center;
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        margin-top: 15px;
+    }
+    
+    .about-content p {
+        text-align: center;
+    }
+    
+    .about-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .social-media {
+        margin-top: 10px;
+    }
+}

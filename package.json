@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongodb": "^6.3.0",
+    "netlify": "^13.1.11"
+  }
+}

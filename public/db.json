@@ -1,0 +1,539 @@
+{
+   "Stories": [
+     {
+       "id": 1,
+       "section": "technology",
+       "title": "Ego, Fear and Money: How the A.I. Fuse Was Lit",
+       "abstract": "The people who were most afraid of the risks of artificial intelligence decided they should be the ones to build it. Then distrust fueled a spiraling competition.",
+       "url": "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html",
+       "byline": "By Cade Metz, Karen Weise, Nico Grant and Mike Isaac",
+       "published_date": "2023-12-03",
+       "multimedia": {
+         "url": "https://static01.nyt.com/images/2023/11/21/business/00tech-AI/00tech-AI-superJumbo.jpg",
+         "format": "Super Jumbo",
+         "height": 1229,
+         "width": 2048,
+         "type": "image",
+         "subtype": "photo",
+         "caption": "Larry Page and Elon Musk were on opposite sides in the debate over the risks of artificial intelligence.",
+         "copyright": "Hokyoung Kim"
+       }
+     },
+     {
+       "id": 2,
+       "section": "technology",
+       "title": "Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement",
+       "abstract": "Before chatbots exploded in popularity, a group of researchers, tech executives and venture capitalists had worked for more than a decade to fuel A.I.",
+       "url": "https://www.nytimes.com/2023/12/03/technology/ai-key-figures.html",
+       "byline": "By J. Edward Moreno",
+       "published_date": "2023-12-03",
+       "multimedia": {
+         "url": "https://static01.nyt.com/images/2023/12/03/business/03ai-who/03ai-who-superJumbo.jpg",
+         "format": "Super Jumbo",
+         "height": 1062,
+         "width": 2048,
+         "type": "image",
+         "subtype": "photo",
+         "caption": "From left, Larry Page, Demis Hassabis and Elon Musk have all made significant contributions to the development of modern artificial intelligence.",
+         "copyright": "Daniel Acker/Bloomberg News; pool photo by Toby Melville; and Amir Hamja/ The New York Times"
+       }
+     },
+     {       
+       "id": 3,
+       "section": "climate",
+       "title": "The Climate Summit Embraces A.I., With Reservations",
+       "abstract": "The idea of using artificial intelligence to fight emissions has made a splash at COP28, but there’s a catch: The energy it requires could make matters worse.",
+       "url": "https://www.nytimes.com/2023/12/03/climate/artificial-intelligence-climate-change.html",
+       "byline": "By Jim Tankersley",
+       "published_date": "2023-12-03",
+       "multimedia": {
+         "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03cli-COP28-AI-tcmj/03cli-COP28-AI-tcmj-superJumbo.jpg",
+         "format": "Super Jumbo",
+         "height": 1365,
+         "width": 2048,
+         "type": "image",
+         "subtype": "photo",
+         "caption": "The COP28 climate summit venue in Dubai, United Arab Emirates, on Sunday.",
+         "copyright": "Peter Dejong/Associated Press"
+       }
+     },
+     {
+      "id": 4,
+       "section": "world",
+       "title": "U.S. Is Pressing Israel and Hamas to Resume Talks, White House Official Says",
+       "abstract": "John Kirby said that Hamas was to blame for the breakdown in the negotiations, and that Israel was heeding U.S. advice on limiting civilian casualties.",
+       "url": "https://www.nytimes.com/2023/12/03/world/middleeast/israel-hamas-hostages-gaza.html",
+       "byline": "By Peter Baker and Karoun Demirjian",
+       "published_date": "2023-12-03",
+       "multimedia": {
+         "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03israel-hamas-kirby-01-ztjw/03israel-hamas-kirby-01-ztjw-superJumbo.jpg",
+         "format": "Super Jumbo",
+         "height": 1365,
+         "width": 2048,
+         "type": "image",
+         "subtype": "photo",
+         "caption": "Photos of those who are believed to remain captive in Gaza on a wall in Jerusalem on Sunday.",
+         "copyright": "Ohad Zwigenberg/Associated Press"
+       }
+     },
+     {
+      "id": 5,
+       "section": "world",
+       "title": "Israeli Mothers Knew Their Sons Would Serve. But They Didn’t Expect War.",
+       "abstract": "Many mothers are grappling with anxiety as their sons head off to fight in Gaza. “It felt like my children were being taken away, one by one, until no one was left,” one said.",
+       "url": "https://www.nytimes.com/2023/12/03/world/middleeast/israel-war-mothers.html",
+       "byline": "By Miriam Jordan",
+       "published_date": "2023-12-03",
+       "multimedia": {
+         "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03israel-mothers-01-qgwf/03israel-mothers-01-qgwf-superJumbo.jpg",
+         "format": "Super Jumbo",
+         "height": 1366,
+         "width": 2048,
+         "type": "image",
+         "subtype": "photo",
+         "caption": "Mothers of Israeli soldiers praying and making challah together in Jerusalem last month.",
+         "copyright": "Avishag Shaar-Yashuv for The New York Times"
+       }
+     },
+     {
+      "id": 6,
+       "section": "us",
+       "title": "At Core of Purdue Pharma Case: Who Can Get Immunity in Settlements?",
+       "abstract": "A broad ruling by the Supreme Court could mean the end of a strategy for resolving claims of mass injury in bankruptcy court in which organizations receive expansive legal protections.",
+       "url": "https://www.nytimes.com/2023/12/03/us/politics/oxycontin-supreme-court-purdue-sacklers.html",
+       "byline": "By Abbie VanSickle",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/01/multimedia/00dc-scotus-purdue-01-zgfh/00dc-scotus-purdue-01-zgfh-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1366,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "Purdue Pharma headquarters in Stamford, Conn. The Supreme Court will hear arguments over the company’s bankruptcy settlement that exempts the Sackler family, which once controlled the company, from civil lawsuits.",
+           "copyright": "Frank Franklin II/Associated Press"
+         }
+     },
+     {
+       "id": 7,
+       "section": "health",
+       "title": "Fate of Billions for Opioid Victims From Sacklers Rests With Supreme Court",
+       "abstract": "The court will decide whether Purdue’s owners can gain permanent immunity from future opioid lawsuits in exchange for payments up to $6 billion.",
+       "url": "https://www.nytimes.com/2023/12/03/health/sacklers-supreme-court.html",
+       "byline": "By Jan Hoffman",
+       "published_date": "2023-12-03",
+       "multimedia": 
+         {
+           "url": "https://static01.nyt.com/images/2023/11/30/science/00PURDUE-SCOTUS-01/00PURDUE-SCOTUS-01-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1336,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "From left: Tiffinee Scott, Dede Yoder and Cheryl Juaire, whose children became addicted to the Purdue painkiller OxyContin and later died, wrote to the Supreme Court.",
+           "copyright": "Hilary Swift for The New York Times"
+         }
+     },
+     {        
+       "id": 8,
+       "section": "magazine",
+       "title": "Why Anonymous Sperm Donation Is Over, and Why That Matters",
+       "abstract": "Activists are trying to end secrecy for sperm and egg donors — a campaign that troubles some L.G.B.T.Q. families.",
+       "url": "https://www.nytimes.com/2023/12/03/magazine/anonymous-sperm-donation-genetic-testing.html",
+       "byline": "By Emily Bazelon",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/01/magazine/01Mag-Donor-1/01Mag-Donor-1-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1556,
+           "width": 1545,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "Photo illustration by Derek Brahney"
+         }
+     },
+     { 
+       "id": 9,
+       "section": "us",
+       "title": "In Florida’s Hot Political Climate, Some Faculty Have Had Enough",
+       "abstract": "Liberal-leaning professors are leaving coveted jobs with tenure. And there are signs that recruiting scholars has become harder.",
+       "url": "https://www.nytimes.com/2023/12/03/us/florida-professors-education-desantis.html",
+       "byline": "By Stephanie Saul",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/01/multimedia/00nat-florida-professor-01-mtfg/00nat-florida-professor-01-mtfg-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1366,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "Some academics have raised concerns that Gov. Ron DeSantis’s policies have become increasingly untenable for them.",
+           "copyright": "Erich Martin for The New York Times"
+         }
+     },
+     { 
+       "id": 10,
+       "section": "us",
+       "title": "DeSantis Says He Would Pass a Bill to ‘Supersede’ Obamacare",
+       "abstract": "The comments from Florida’s governor on Sunday followed a similar statement by former President Donald J. Trump; Democrats have denounced their stances.",
+       "url": "https://www.nytimes.com/2023/12/03/us/politics/desantis-obamacare.html",
+       "byline": "By Maggie Astor",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03pol-desantis-twgl/03pol-desantis-twgl-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "Ron DeSantis, Florida’s governor and a Republican presidential candidate, said he would release a full health care proposal “probably in the spring.” ",
+           "copyright": "Lily Smith/The Des Moines Register, via Associated Press"
+         }
+     },
+     {
+       "id": 11,
+       "section": "business",
+       "title": "Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink",
+       "abstract": "A nationwide shortage of controllers has resulted in an exhausted and demoralized work force that is increasingly prone to making dangerous mistakes.",
+       "url": "https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html",
+       "byline": "By Emily Steel and Sydney Ember",
+       "published_date": "2023-12-02",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/02/multimedia/02air-safety-PROMO-zmbq/02air-safety-PROMO-zmbq-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "John Francis Peters for The New York Times"
+         }
+     },
+     {
+      "id": 12,
+       "section": "business",
+       "title": "Why Doctors and Pharmacists Are in Revolt",
+       "abstract": "Once accustomed to a status outside the usual management-labor hierarchy, many health professionals now feel as put upon as any clock-punching worker.",
+       "url": "https://www.nytimes.com/2023/12/03/business/economy/doctors-pharmacists-labor-unions.html",
+       "byline": "By Noam Scheiber",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03rx-labor-01-hpzm/03rx-labor-01-hpzm-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 2048,
+           "width": 1367,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "When Dr. John Wust, an obstetrician at Allina, and his colleagues voted to unionize in March, they were one of the largest groups of private-sector doctors ever to do so.",
+           "copyright": "Jenn Ackerman for The New York Times"
+         }
+     },
+     {
+      "id": 13,
+       "section": "arts",
+       "title": "10 Performances That Pushed Emotional Limits",
+       "abstract": "For our critic-at-large, the year was marked by the Black excellence of “Purlie Victorious,” the brutality of “Bottoms” and rage of “Beef.”",
+       "url": "https://www.nytimes.com/2023/12/03/arts/theater-performance-tv.html",
+       "byline": "By Maya Phillips",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/10/multimedia/10best-phillips-tv-beef-jkfg/10best-phillips-tv-beef-jkfg-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "Ali Wong and Steven Yeun in “Beef.”",
+           "copyright": "Andrew Cooper/Netflix"
+         }
+     },
+     { 
+      "id": 14,
+       "section": "books",
+       "title": "The Critics’ Picks: A Year in Reading",
+       "abstract": "The Book Review’s daily critics — Dwight Garner, Alexandra Jacobs and Jennifer Szalai — reflect on the books that stuck with them in 2023.",
+       "url": "https://www.nytimes.com/2023/12/03/books/review/critics-favorite-books-2023.html",
+       "byline": "By Jennifer Szalai, Alexandra Jacobs and Dwight Garner",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/10/books/review/10TenBest-CRITICS/10TenBest-CRITICS-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 2000,
+           "width": 1889,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "Timo Lenzen"
+         }
+     },
+     { 
+      "id": 15,
+       "section": "nyregion",
+       "title": "The Weekender",
+       "abstract": "Meet Progressive’s Flo. Also: Longevity drugs for dogs and the best books of 2023.",
+       "url": "https://www.nytimes.com/2023/12/01/nyregion/the-weekender.html",
+       "byline": "By The New York Times",
+       "published_date": "2023-12-01",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/02/multimedia/02Weekender/02Weekender-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1334,
+           "width": 2000,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "The New York Times"
+         }
+     },
+     { 
+       "id": 16,
+       "section": "briefing",
+       "title": "The New York Times News Quiz, Dec. 1, 2023",
+       "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+       "url": "https://www.nytimes.com/interactive/2023/12/01/briefing/news-quiz-nikki-haley-rosalynn-carter-mark-cuban.html",
+       "byline": "N/A",
+       "published_date": "2023-12-01",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/11/30/multimedia/dec1-news-quiz-hstages-lqzc/dec1-news-quiz-hstages-lqzc-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1460,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "Yousef Masoud for The New York Times"
+         }
+     },
+     { 
+       "id": 17,
+       "section": "upshot",
+       "title": "Flashback: Your Weekly History Quiz, December 3, 2023",
+       "abstract": "Can you sort 8 historical events? The hot air balloon, the N.F.L., and the vacuum cleaner.",
+       "url": "https://www.nytimes.com/interactive/2023/12/01/upshot/flashback.html",
+       "byline": "N/A",
+       "published_date": "2023-12-01",
+       "multimedia": 
+         {
+           "url": "https://static01.nyt.com/images/2023/12/01/upshot/flashback-promo-20231203/flashback-promo-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": ""
+         }
+     },
+     {
+       "id": 18,
+       "section": "opinion",
+       "title": "The Debate That Israel Needs Over the War",
+       "abstract": "Wiping out Hamas is an unattainable goal, and getting stuck in Gaza would be a disaster.",
+       "url": "https://www.nytimes.com/2023/12/01/opinion/israel-gaza-ceasefire.html",
+       "byline": "By Thomas L. Friedman",
+       "published_date": "2023-12-01",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/02/multimedia/01friedman-tclq/01friedman-tclq-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "Israel soldiers near the Gaza border on Wednesday.",
+           "copyright": "Abir Sultan/EPA, via Shutterstock"
+         }
+     },
+     { 
+       "id": 19,
+       "section": "opinion",
+       "title": "It’s Time to Fix America’s Most Dangerous Law",
+       "abstract": "The Insurrection Act is deeply flawed, and the possibility of a second Trump presidency makes its defects terrifyingly clear.",
+       "url": "https://www.nytimes.com/2023/12/03/opinion/insurrection-act-trump-president.html",
+       "byline": "By David French",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/04/multimedia/03french-fhtw/03french-fhtw-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "Patrick Semansky/Associated Press"
+         }
+     },
+     {
+      "id": 20,
+       "section": "opinion",
+       "title": "Losing Your Life for Doing Your Job",
+       "abstract": "60 journalists have been killed in the Israel-Gaza war. My friend was one of them.",
+       "url": "https://www.nytimes.com/2023/12/03/opinion/journalists-killed-israel-gaza.html",
+       "byline": "By Lama Al-Arian",
+       "published_date": "2023-12-03",
+       "multimedia": 
+         {
+           "url": "https://static01.nyt.com/images/2023/11/29/multimedia/29al-arian-ljcf/29al-arian-ljcf-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 2047,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "Friends and family laid cameras and flowers on the grave of Issam Abdallah, a Reuters journalist.",
+           "copyright": "Zohra Bensemra/Reuters"
+         }
+     },
+     {
+       "id": 21,
+       "section": "opinion",
+       "title": "Born This Way? Born Which Way?",
+       "abstract": "The panic over transgender children is driven by the fear that they’ll regret transitioning. But freedom to make mistakes is core to being human.",
+       "url": "https://www.nytimes.com/2023/12/01/opinion/politics/life-without-regret.html",
+       "byline": "By Lydia Polgreen",
+       "published_date": "2023-12-01",
+       "multimedia": 
+         {
+           "url": "https://static01.nyt.com/images/2023/12/01/opinion/sunday/01Polgreen/01Polgreen-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 2048,
+           "width": 1376,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "Illustration by Najeebah Al-Ghadban. Photographs, via Getty Images/Room Rf"
+         }
+     },
+     {
+       "id": 22,
+       "section": "dining",
+       "title": "This Chicken Should Be in Every Pot",
+       "abstract": "Warm spices, sweet root vegetables, savory chicken — a perfect dinner.",
+       "url": "https://www.nytimes.com/2023/12/03/dining/this-chicken-should-be-in-every-pot.html",
+       "byline": "By Sam Sifton",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/11/29/multimedia/29APPErex-tsimmes-gjck/29APPErex-tsimmes-gjck-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+         }
+     },
+     {
+       "id": 23,
+       "section": "nyregion",
+       "title": "5 Dead, Including Suspect, and 2 Officers Wounded in Queens Stabbing",
+       "abstract": "The attack occurred early Sunday morning at a house in Far Rockaway, where the suspect also started a fire, the police said.",
+       "url": "https://www.nytimes.com/2023/12/03/nyregion/stabbing-queens-nyc.html",
+       "byline": "By Emma Bubola",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03ny-stabbing-1/03ny-stabbing-1-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "The police said the suspect was most likely a family member of the victims.",
+           "copyright": "Dakota Santiago for The New York Times"
+         }
+     },
+     {
+       "id": 24,
+       "section": "business",
+       "title": "Alaska Airlines Plans to Buy Hawaiian Airlines",
+       "abstract": "The deal, valued at $1.9 billion, is likely to face close scrutiny by federal antitrust regulators.",
+       "url": "https://www.nytimes.com/2023/12/03/business/alaska-airlines-hawaiian-airlines-deal.html",
+       "byline": "By Niraj Chokshi and Ivan Penn",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03alaska-gzcj/03alaska-gzcj-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1366,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "The combined airline will maintain the Alaska Airlines and Hawaiian Airlines brands but with a single operating platform.",
+           "copyright": "AaronP/Bauer-Griffin, via GC Images"
+         }
+     },
+     {
+       "id": 25,
+       "section": "world",
+       "title": "With Big State Victories, Modi Expands His Dominance in India",
+       "abstract": "Results of voting for the governments of four Indian states showed gains for Mr. Modi’s ruling party, putting him in a strong position ahead of general elections in the spring.",
+       "url": "https://www.nytimes.com/2023/12/03/world/asia/india-state-elections-modi.html",
+       "byline": "By Mujib Mashal and Hari Kumar",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03india-elections-01-cwqv/03india-elections-01-cwqv-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1365,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "Shivraj Singh Chouhan, the chief minister of the Indian state of Madhya Pradesh and a member of the Bharatiya Janata Party, is greeted by supporters in Bhopal, India, on Sunday.",
+           "copyright": "Gagan Nayar/Agence France-Presse — Getty Images"
+         }
+     },
+     {
+       "id": 26,
+       "section": "us",
+       "title": "‘Medical Freedom’ Activists Take Aim at New Target: Childhood Vaccine Mandates",
+       "abstract": "Mississippi has long had high childhood immunization rates, but a federal judge has ordered the state to allow parents to opt out on religious grounds.",
+       "url": "https://www.nytimes.com/2023/12/03/us/politics/mississippi-childhood-vaccine-mandates.html",
+       "byline": "By Sheryl Gay Stolberg",
+       "published_date": "2023-12-03",
+       "multimedia":
+         {
+           "url": "https://static01.nyt.com/images/2023/11/23/multimedia/00dc-kids-vaccines-01-bzlv/00dc-kids-vaccines-01-bzlv-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1363,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "Public health experts say the idea that there should be freedom of choice around vaccines defeats the very purpose of vaccination.",
+           "copyright": "Rory Doyle for The New York Times"
+         }
+     },
+     {
+      "id": 27,
+       "section": "magazine",
+       "title": "The Longer This Cake Soaks, the Better It Is",
+       "abstract": "The faint bitterness of Thai tea gets absorbed into tres leches, checking the sweetness, so it’s just enough.",
+       "url": "https://www.nytimes.com/2023/11/29/magazine/thai-tea-tres-leches-recipe.html",
+       "byline": "By Ligaya Mishan",
+       "published_date": "2023-11-29",
+       "multimedia": 
+         {
+           "url": "https://static01.nyt.com/images/2023/12/03/magazine/03mag-Eat/03mag-Eat-superJumbo.jpg",
+           "format": "Super Jumbo",
+           "height": 1542,
+           "width": 2048,
+           "type": "image",
+           "subtype": "photo",
+           "caption": "",
+           "copyright": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Eleni Pappas."
+         }
+     }
+   ]
+ }
