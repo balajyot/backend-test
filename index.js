@@ -33,8 +33,8 @@ async function fetchStories() {
 const server = http.createServer(async (req, res) => {
     
     if (req.url === '/') {
-        // read public.html file from public folder
-        fs.readFile(path.join(__dirname, 'public', 'index.html'),
+        
+        fs.readFile(path.join(__dirname, 'index.html'),
                     (err, content) => {
                                     
                                     if (err) throw err;
